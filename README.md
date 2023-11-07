@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mollymauk666
-- 🤓 I'm interested in movies, books, music and sadly programming
-- 💻 I'm currently learning basic programming
+- 👋 Hi, I’m @rafaelRojasV
+- 🤓 I'm interested in Computer Science, Data Science, Neuroscience, Books, and Board Games.
+- 💻 I'm currently learning: SQL, Scala, Clojure, and Python.
 - 🖖🏽 If you want to communicate with me here's my email rafarojasv6@gmail.com
 
 <!---
