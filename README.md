@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rafaelRojasV
+- 🖇️ My LinkedIn https://www.linkedin.com/in/rafael-rojas-001906263/
 - 🤓 I'm interested in Computer Science, Data Science, Neuroscience, Books, and Board Games.
 - 💻 I'm currently learning: SQL, Scala, Clojure, and Python.
 - 🖖🏽 If you want to communicate with me here's my email rafarojasv6@gmail.com
